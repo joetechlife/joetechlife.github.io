@@ -1,3 +1,5 @@
 # joetechlife.github.io
 
-## This is a test
+[notes about Oracle multitenant container database][1]
+
+1: https://joetechlife.github.io/oracle_cdb_notes/
